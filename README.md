@@ -1,2 +1,2 @@
 # Deutsch-lernen
-A memo of German learning 
+My journey to Deutsch-lernen. The memo of German learning by the textbook <Stichwort Deutsch> 
