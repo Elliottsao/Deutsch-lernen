@@ -22,7 +22,11 @@ Personalpronomen in N und KVP(1)
 
 ***Personalpronomen im Nominativ (N) und Konjugation der Verben im Präsens***
 
-| First Header  |         Second Header      |
-| ------------- | ------------- | -----------|
-| Content Cell  | Content Cell  |    Cell    |
-| Content Cell  | Content Cell  |    Cell    |
+
+
+|     |  m. |  f. |  n. | Pl. |
+| --- | --- | --- | --- | --- |
+|  **N.** |  er |  e  |  es |  e  |
+|  **A.** |  en |  e  |  es |  e  |
+|  **D.** |  em |  er |  em |  en |
+|  **G.** | des | der | des | der |
